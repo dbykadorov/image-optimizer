@@ -13,6 +13,10 @@
         {
             "name": "Flyn San",
             "email": "flynsarmy@gmail.com"
+        },
+        {
+            "name": "Dmitry Bykadorov",
+            "dmitry.bykadorov@gmail.com"
         }
     ],
     "autoload": {
